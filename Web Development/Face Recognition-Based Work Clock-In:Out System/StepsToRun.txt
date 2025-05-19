@@ -1,0 +1,15 @@
+Step 1: Run the Application
+python main.py
+
+
+Step 2: Register a New User
+Click the New User button.
+Enter a username in the provided text box.
+The application captures your face and saves it for future recognition.
+
+
+Step 3: Login
+Click the Login button.
+Look at the webcam. The application detects your face.
+If recognized, you'll see a welcome message, and your attendance will be logged.
+If unrecognized, you'll be prompted to register.
